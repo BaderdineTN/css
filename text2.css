@@ -1,7 +1,35 @@
 div{
-	text-decoration:overline;
+	text-decoration:none;
+	text-indent:20px;
 }
 
 a:hover{
   text-decoration:none;
+  white-space:normal; /*nowrap */
+}
+
+div span{
+	color:red;
+	text-decoration:line-through;
+}
+
+span.one{
+	color:red;
+	text-decoration:line-through;	
+}
+span.two{
+	color:blue;
+	text-decoration:none;	
+	word-spacing:10px;
+	letter-spacing:20px;
+}
+
+span.cap{
+		text-transform:capitalize;
+}
+span.upper{
+		text-transform:uppercase;
+}
+span.lower{
+	text-transform:lowercase;
 }

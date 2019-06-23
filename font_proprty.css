@@ -1,0 +1,13 @@
+p{
+	font-family:"comic sans MS",tahoma, Arial;
+	font-style:italic;  /* italic , oblique ... */
+	font-size:32px;    /* 16px = 100% , 2em */ /*  xx-small , large , medium */
+    font-weight:200
+   
+    /*   Font : font-style / font-weight / font-size / line-height / font-family */
+
+}
+
+p span{
+	font-size:xx-small
+}
