@@ -1,0 +1,25 @@
+//
+
+  Selector{
+     
+	 Property : Value;   // Declaration
+	 Property : value;
+	 .
+	 .
+	 .
+	 . 
+   
+  }
+
+==> Exp :   
+  p{}
+  table{}
+  div{}
+  h1 , h2 , h3 {}
+  
+//  
+  <style>
+  </style>
+  
+//
+<p style="color:red;"></p>  

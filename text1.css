@@ -1,0 +1,15 @@
+div{
+	width:300px;
+	background:#DDD;
+	margin:10px 0;
+	/* Text Properties*/
+	color:#F00;
+	direction:ltr; /* ltr rtl : arabe */
+	letter-spacing:5px;
+	padding:10px;
+	line-height:30px;
+	text-align:center
+}
+.ar{
+	directon:ltr;
+}
