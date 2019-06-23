@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+div{
+	background:#00F;
+	color:#FFF;
+	width:400px;
+	margin:auto /* 10px 10px 10px 10px*/
+	/* margin-left*/
+	/* margin-right*/
+	/* margin-top*/
+	/* margin-bottom */
+}
