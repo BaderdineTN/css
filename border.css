@@ -1,0 +1,16 @@
+div{
+	background:#DDD;
+	padding:10px;
+	margin:10px;
+	
+	
+/* ==> short path */	
+	border:5px dotted #F00  /* dash - dotted - solid - double*/
+    /* border-top */
+	/* border-right */
+	/* border-left */
+/* ==>  path */	
+	border-width:1px 3px 5px 10px;
+	border-style:dotted solid groove;
+	border-color:#676767;
+} 
