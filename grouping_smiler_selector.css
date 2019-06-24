@@ -1,0 +1,22 @@
+.one .two .three{
+	color:#FFF;
+	padding:10px;
+	width:300px;
+	margin:10px;
+	float:left;
+}
+
+.one{
+	background:red;
+
+}
+
+.two{
+	background:blue;
+ 
+}
+
+.three{
+	background:green;
+ 
+}
