@@ -1,0 +1,12 @@
+.left{
+	width:300px;
+	background:blue;
+	color:#FFF;
+	padding:10px;
+	float:left;
+	margin:5px;
+}
+  /* float: none & right & left /
+.clear{
+	clear:both;
+}
